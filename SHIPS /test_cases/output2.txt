@@ -1,0 +1,427 @@
+Port 0: (8.98, 54.79)
+	Light Containers: 399 
+	Heavy Containers: 58 125 130 234 
+	Refrigerated Containers: 139 444 
+	Liquid Containers: 180 282 297 
+	Ship 15: 7017993.42
+	Ship 18: 6000715.46
+	Ship 47: 2306855.64
+	Ship 89: 6230163.13
+	Ship 95: 2458744.13
+
+Port 1: (19.98, 30.50)
+	Light Containers: 142 288 
+	Heavy Containers: 109 134 438 462 
+	Refrigerated Containers: 20 150 
+	Liquid Containers: 263 
+	Ship 12: 4001549.10
+	Ship 100: 2243234.78
+
+Port 2: (85.53, 50.90)
+	Light Containers: 307 
+	Heavy Containers: 231 
+	Refrigerated Containers: 163 366 492 
+	Liquid Containers: 147 192 412 
+	Ship 9: 4659663.14
+	Ship 98: 4111636.52
+
+Port 3: (38.50, 14.74)
+	Light Containers: 407 
+	Heavy Containers: 
+	Refrigerated Containers: 293 474 
+	Liquid Containers: 329 363 447 
+	Ship 39: 4278132.28
+	Ship 73: 4084749.71
+	Ship 99: 7504110.75
+
+Port 4: (32.81, 96.83)
+	Light Containers: 
+	Heavy Containers: 99 250 310 
+	Refrigerated Containers: 169 
+	Liquid Containers: 95 98 325 
+	Ship 29: 4816069.01
+	Ship 65: 4021267.45
+
+Port 5: (57.54, 65.85)
+	Light Containers: 8 116 
+	Heavy Containers: 24 104 164 472 
+	Refrigerated Containers: 106 123 230 316 475 
+	Liquid Containers: 319 
+	Ship 2: 6004918.66
+
+Port 6: (74.08, 88.17)
+	Light Containers: 446 
+	Heavy Containers: 120 218 265 471 
+	Refrigerated Containers: 208 320 356 364 466 
+	Liquid Containers: 467 
+	Ship 75: 4868869.27
+	Ship 76: 6410743.81
+	Ship 96: 3933456.01
+
+Port 7: (79.88, 58.60)
+	Light Containers: 
+	Heavy Containers: 80 215 301 347 367 395 455 
+	Refrigerated Containers: 343 374 
+	Liquid Containers: 102 204 238 287 
+	Ship 60: 6650764.58
+	Ship 91: 4861761.58
+	Ship 92: 2795019.98
+
+Port 8: (67.46, 38.40)
+	Light Containers: 70 359 
+	Heavy Containers: 48 380 469 
+	Refrigerated Containers: 2 113 119 
+	Liquid Containers: 25 61 
+	Ship 69: 3176519.05
+
+Port 9: (55.74, 80.37)
+	Light Containers: 296 
+	Heavy Containers: 267 419 443 
+	Refrigerated Containers: 305 385 
+	Liquid Containers: 30 430 
+	Ship 43: 6380515.77
+
+Port 10: (46.88, 8.70)
+	Light Containers: 
+	Heavy Containers: 40 74 223 327 
+	Refrigerated Containers: 214 
+	Liquid Containers: 29 78 198 207 358 
+	Ship 86: 3385972.22
+
+Port 11: (8.07, 38.10)
+	Light Containers: 
+	Heavy Containers: 34 390 428 498 
+	Refrigerated Containers: 403 483 
+	Liquid Containers: 84 175 203 485 
+	Ship 5: 4879271.74
+	Ship 59: 2631317.70
+	Ship 78: 3661092.21
+	Ship 80: 3509568.73
+
+Port 12: (56.33, 81.57)
+	Light Containers: 
+	Heavy Containers: 89 100 140 176 486 
+	Refrigerated Containers: 17 110 149 304 
+	Liquid Containers: 219 236 261 
+	Ship 4: 6304790.97
+	Ship 42: 5607403.61
+
+Port 13: (63.03, 7.37)
+	Light Containers: 64 153 
+	Heavy Containers: 227 
+	Refrigerated Containers: 108 126 194 292 416 
+	Liquid Containers: 118 173 258 372 400 
+
+Port 14: (74.28, 81.44)
+	Light Containers: 21 
+	Heavy Containers: 145 221 321 334 379 409 
+	Refrigerated Containers: 398 427 
+	Liquid Containers: 133 346 
+	Ship 57: 4545172.70
+	Ship 74: 3285130.99
+
+Port 15: (38.99, 7.35)
+	Light Containers: 165 448 
+	Heavy Containers: 0 279 291 440 
+	Refrigerated Containers: 35 53 201 348 
+	Liquid Containers: 138 252 
+	Ship 6: 3721964.88
+
+Port 16: (25.85, 28.55)
+	Light Containers: 251 431 
+	Heavy Containers: 1 178 186 189 226 246 249 338 453 
+	Refrigerated Containers: 75 217 245 300 
+	Liquid Containers: 23 181 
+
+Port 17: (18.90, 73.81)
+	Light Containers: 
+	Heavy Containers: 42 56 60 284 
+	Refrigerated Containers: 281 375 
+	Liquid Containers: 211 213 482 
+	Ship 70: 2387926.57
+
+Port 18: (64.75, 67.70)
+	Light Containers: 
+	Heavy Containers: 14 115 278 303 339 345 
+	Refrigerated Containers: 200 373 393 460 
+	Liquid Containers: 
+	Ship 25: 5465294.39
+	Ship 77: 3385617.09
+	Ship 79: 6151313.52
+	Ship 88: 7892084.62
+	Ship 90: 4591117.59
+	Ship 94: 6306470.56
+
+Port 19: (67.31, 43.19)
+	Light Containers: 337 
+	Heavy Containers: 73 85 137 295 333 371 
+	Refrigerated Containers: 
+	Liquid Containers: 
+
+Port 20: (44.60, 95.35)
+	Light Containers: 
+	Heavy Containers: 378 408 
+	Refrigerated Containers: 88 135 160 384 
+	Liquid Containers: 450 463 
+	Ship 20: 8663288.44
+
+Port 21: (42.48, 79.51)
+	Light Containers: 45 272 
+	Heavy Containers: 328 396 
+	Refrigerated Containers: 54 402 432 
+	Liquid Containers: 170 185 239 
+	Ship 40: 3577115.45
+
+Port 22: (34.04, 43.77)
+	Light Containers: 
+	Heavy Containers: 212 264 
+	Refrigerated Containers: 241 336 340 441 465 479 
+	Liquid Containers: 128 132 206 445 
+
+Port 23: (90.07, 76.63)
+	Light Containers: 184 484 
+	Heavy Containers: 11 66 72 94 209 
+	Refrigerated Containers: 37 131 421 
+	Liquid Containers: 13 
+	Ship 24: 3991770.73
+	Ship 26: 3351088.15
+
+Port 24: (66.38, 40.19)
+	Light Containers: 36 496 
+	Heavy Containers: 4 7 27 49 193 406 461 
+	Refrigerated Containers: 28 289 414 
+	Liquid Containers: 67 228 
+	Ship 3: 4358797.32
+	Ship 21: 1893250.19
+	Ship 33: 4709981.82
+	Ship 41: 4041934.23
+	Ship 49: 2263252.02
+	Ship 85: 3712651.79
+
+Port 25: (9.48, 5.98)
+	Light Containers: 10 77 
+	Heavy Containers: 18 87 
+	Refrigerated Containers: 
+	Liquid Containers: 151 269 
+	Ship 93: 3664687.08
+
+Port 26: (17.06, 72.44)
+	Light Containers: 182 260 324 
+	Heavy Containers: 82 83 141 332 404 437 
+	Refrigerated Containers: 156 262 277 
+	Liquid Containers: 
+	Ship 56: 2165941.79
+
+Port 27: (91.16, 13.81)
+	Light Containers: 114 458 
+	Heavy Containers: 167 171 190 276 
+	Refrigerated Containers: 6 473 
+	Liquid Containers: 233 
+	Ship 1: 6489725.87
+	Ship 16: 4134525.07
+	Ship 35: 6138049.33
+	Ship 44: 7198225.94
+	Ship 54: 4288342.76
+
+Port 28: (80.19, 16.39)
+	Light Containers: 76 129 
+	Heavy Containers: 294 
+	Refrigerated Containers: 59 179 197 
+	Liquid Containers: 202 344 
+	Ship 53: 4670304.22
+
+Port 29: (77.47, 9.22)
+	Light Containers: 
+	Heavy Containers: 394 
+	Refrigerated Containers: 81 101 
+	Liquid Containers: 146 237 449 468 
+	Ship 14: 9163270.55
+	Ship 61: 2732353.74
+
+Port 30: (5.64, 43.28)
+	Light Containers: 
+	Heavy Containers: 121 199 
+	Refrigerated Containers: 
+	Liquid Containers: 43 111 312 
+	Ship 8: 5364969.77
+	Ship 19: 7305520.27
+	Ship 22: 5359734.49
+
+Port 31: (91.07, 5.67)
+	Light Containers: 478 
+	Heavy Containers: 91 144 302 410 
+	Refrigerated Containers: 57 90 216 488 
+	Liquid Containers: 459 499 
+	Ship 58: 6290397.53
+	Ship 67: 3947288.03
+	Ship 83: 4368653.83
+		Light Containers: 
+		Heavy Containers: 
+		Refrigerated Containers: 
+		Liquid Containers: 387 
+	Ship 87: 2343395.16
+
+Port 32: (64.66, 25.62)
+	Light Containers: 39 
+	Heavy Containers: 220 255 
+	Refrigerated Containers: 44 158 351 
+	Liquid Containers: 52 69 
+	Ship 66: 3791264.09
+
+Port 33: (9.80, 38.68)
+	Light Containers: 257 
+	Heavy Containers: 19 188 308 
+	Refrigerated Containers: 210 
+	Liquid Containers: 
+	Ship 13: 3229500.19
+
+Port 34: (39.47, 21.72)
+	Light Containers: 490 
+	Heavy Containers: 22 63 124 157 191 365 
+	Refrigerated Containers: 62 86 195 
+	Liquid Containers: 205 383 429 
+	Ship 17: 5145547.30
+		Light Containers: 
+		Heavy Containers: 92 
+		Refrigerated Containers: 
+		Liquid Containers: 
+
+Port 35: (16.10, 11.53)
+	Light Containers: 
+	Heavy Containers: 79 229 253 389 434 
+	Refrigerated Containers: 418 
+	Liquid Containers: 
+	Ship 32: 2842121.03
+	Ship 36: 3212152.65
+
+Port 36: (78.05, 8.03)
+	Light Containers: 
+	Heavy Containers: 259 381 391 436 470 
+	Refrigerated Containers: 5 225 
+	Liquid Containers: 405 442 456 481 
+	Ship 64: 3734319.35
+	Ship 84: 2290572.06
+
+Port 37: (64.19, 86.46)
+	Light Containers: 
+	Heavy Containers: 256 280 315 
+	Refrigerated Containers: 65 247 317 330 360 415 
+	Liquid Containers: 196 
+	Ship 48: 7333491.70
+
+Port 38: (6.51, 32.27)
+	Light Containers: 401 494 
+	Heavy Containers: 15 275 341 426 451 480 
+	Refrigerated Containers: 
+	Liquid Containers: 105 143 350 
+	Ship 11: 6205231.46
+	Ship 63: 3803632.70
+	Ship 82: 5726110.80
+
+Port 39: (85.15, 54.40)
+	Light Containers: 435 
+	Heavy Containers: 117 154 500 
+	Refrigerated Containers: 271 
+	Liquid Containers: 283 433 493 
+	Ship 72: 7611509.39
+
+Port 40: (11.98, 89.21)
+	Light Containers: 
+	Heavy Containers: 103 136 148 240 342 
+	Refrigerated Containers: 313 491 
+	Liquid Containers: 487 
+	Ship 0: 4929628.87
+
+Port 41: (19.70, 12.98)
+	Light Containers: 112 
+	Heavy Containers: 127 376 454 497 
+	Refrigerated Containers: 311 361 382 424 
+	Liquid Containers: 161 335 377 
+	Ship 51: 5157200.32
+
+Port 42: (17.95, 82.90)
+	Light Containers: 
+	Heavy Containers: 9 168 222 
+	Refrigerated Containers: 32 46 155 388 
+	Liquid Containers: 33 235 323 
+
+Port 43: (37.85, 22.36)
+	Light Containers: 
+	Heavy Containers: 187 268 270 353 
+	Refrigerated Containers: 274 290 299 306 
+	Liquid Containers: 71 97 370 417 489 
+	Ship 34: 5517772.97
+	Ship 68: 4284289.01
+
+Port 44: (84.39, 90.64)
+	Light Containers: 248 354 
+	Heavy Containers: 355 
+	Refrigerated Containers: 50 
+	Liquid Containers: 12 224 386 422 
+	Ship 7: 6401179.14
+	Ship 97: 5136270.12
+
+Port 45: (16.94, 52.28)
+	Light Containers: 
+	Heavy Containers: 349 362 
+	Refrigerated Containers: 26 177 352 368 439 
+	Liquid Containers: 31 152 
+	Ship 23: 4204480.93
+	Ship 45: 5075784.15
+		Light Containers: 
+		Heavy Containers: 286 
+		Refrigerated Containers: 
+		Liquid Containers: 
+	Ship 52: 5823424.42
+	Ship 62: 4654258.74
+
+Port 46: (69.99, 15.46)
+	Light Containers: 3 
+	Heavy Containers: 47 243 
+	Refrigerated Containers: 162 174 425 
+	Liquid Containers: 38 266 273 357 392 
+	Ship 30: 5959138.58
+
+Port 47: (52.56, 90.60)
+	Light Containers: 51 96 166 413 
+	Heavy Containers: 331 369 411 464 
+	Refrigerated Containers: 254 
+	Liquid Containers: 232 309 
+	Ship 27: 5318507.79
+	Ship 31: 4983643.48
+
+Port 48: (70.43, 60.07)
+	Light Containers: 93 477 
+	Heavy Containers: 16 322 
+	Refrigerated Containers: 
+	Liquid Containers: 41 183 495 
+	Ship 10: 2418947.02
+	Ship 37: 7933423.80
+	Ship 38: 3200948.30
+	Ship 46: 7332965.51
+	Ship 81: 6621366.24
+		Light Containers: 107 
+		Heavy Containers: 
+		Refrigerated Containers: 
+		Liquid Containers: 
+
+Port 49: (87.26, 89.79)
+	Light Containers: 
+	Heavy Containers: 172 242 
+	Refrigerated Containers: 159 457 476 
+	Liquid Containers: 68 326 420 452 
+	Ship 50: 6431377.32
+	Ship 55: 4334887.98
+	Ship 71: 3864077.72
+
+Port 50: (49.74, 37.54)
+	Light Containers: 298 318 
+	Heavy Containers: 55 244 423 
+	Refrigerated Containers: 122 285 
+	Liquid Containers: 314 
+	Ship 28: 5804845.57
+		Light Containers: 397 
+		Heavy Containers: 
+		Refrigerated Containers: 
+		Liquid Containers: 
+

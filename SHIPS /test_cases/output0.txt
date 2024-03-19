@@ -1,0 +1,27 @@
+Port 0: (100.00, 200.00)
+	Light Containers: 13 14 
+	Heavy Containers: 12 
+	Refrigerated Containers: 
+	Liquid Containers: 23 
+	Ship 1: 370.74
+		Light Containers: 1 2 
+		Heavy Containers: 0 
+		Refrigerated Containers: 3 
+		Liquid Containers: 4 
+	Ship 2: 150.54
+		Light Containers: 5 6 7 
+		Heavy Containers: 8 9 
+		Refrigerated Containers: 
+		Liquid Containers: 10 11 
+
+Port 1: (120.60, 250.00)
+	Light Containers: 15 16 17 18 
+	Heavy Containers: 
+	Refrigerated Containers: 
+	Liquid Containers: 20 21 
+	Ship 0: 260.00
+		Light Containers: 19 
+		Heavy Containers: 
+		Refrigerated Containers: 22 
+		Liquid Containers: 
+
